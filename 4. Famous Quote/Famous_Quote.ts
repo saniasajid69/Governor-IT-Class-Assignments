@@ -1,0 +1,1 @@
+console.log('John once said, "Abosolutely Yes"');
